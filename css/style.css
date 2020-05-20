@@ -20,7 +20,7 @@ img {
   width:300px;
 }
 a {
-  color: #96CDFF;
+  color: #594157;
 }
 a:hover {
   text-decoration: none;
@@ -70,16 +70,17 @@ header {
   font-size: 60px;
 } */
 
+
 /* Awards
 ---------------------------*/
 .awards {
-  background: #DBBADD;
+  background: #F8F7FF;
 }
 .awards a {
-  color: #BE92A2;
+  color: #594157;
 }
 .awards .btn {
-  color: #D8E1FF;
+  color: #594157;
   background: #BE92A2;
   text-decoration: none;
   padding: 8px;
@@ -87,7 +88,7 @@ header {
   display: inline-block;
 }
 .awards btn:hover {
-  background: rgba(190, 146, 162, 80%);
+  background: rgba(89, 65, 87, 80%);
 }
 .project-item {
   overflow: hidden;
@@ -100,7 +101,7 @@ header {
 /* Work experience
 ---------------------------*/
 .work-experience {
-  background: #D8E1FF;
+  background: #B7D1DA;
 }
 
 /*Education
@@ -163,6 +164,6 @@ footer {
     line-height: 1;
   }
   .contact-list a {
-    padding: 5px;
+    padding: ;
   }
 }
